@@ -1,5 +1,5 @@
-# kickstart
-An Automation-Ready Boilerplate built with [Bootstrap](https://www.getbootstrap.com), [AngularJS](https://www.angularjs.org), [Grunt](https://www.gruntjs.com), [Bower](https://www.bower.io), [Flexboxgrid](https://www.flexboxgrid.com), and [Animate.css](https://http://daneden.github.io/animate.css/).
+# KickStart - An Automation-Ready Boilerplate.
+Built with [Bootstrap](https://www.getbootstrap.com), [AngularJS](https://www.angularjs.org), [Grunt](https://www.gruntjs.com), [Bower](https://www.bower.io), [Flexboxgrid](https://www.flexboxgrid.com), and [Animate.css](https://http://daneden.github.io/animate.css/).
 An experiment in increasing productivity and optimizing workflow.
 
 ### Demo
