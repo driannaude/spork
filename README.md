@@ -1,4 +1,7 @@
-# Spork - An Automation-Ready Project Generator.
+## Spork - An Automation-Ready Project Generator.
+
+![spork image](http://notanengineer.com/blog/wp-content/uploads/2015/04/spork.png "spork-cli interface")
+
 Built with [Bootstrap](https://www.getbootstrap.com), [AngularJS](https://www.angularjs.org), [Grunt](https://www.gruntjs.com), [Bower](https://www.bower.io), [Flexboxgrid](https://www.flexboxgrid.com), and [Animate.css](https://http://daneden.github.io/animate.css/).
 An experiment in increasing productivity and optimizing workflow.
 
@@ -13,8 +16,10 @@ Using npm:
 ```
 npm install spork-cli
 ```
+
 ---
-### Building A Spork
+
+### Building Spork
 
 ###### The Recommended Way:
 
@@ -58,7 +63,7 @@ bower install
 
 ---
 
-#### Serve Your Spork
+### Serve Your Spork
 
 The spork-cli has a wrapper for the grunt serve task, because typing the word `spork` is fun! 
 
