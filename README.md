@@ -1,23 +1,17 @@
-# KickStart - An Automation-Ready Boilerplate.
+# Toast - An Automation-Ready Project Generator.
 Built with [Bootstrap](https://www.getbootstrap.com), [AngularJS](https://www.angularjs.org), [Grunt](https://www.gruntjs.com), [Bower](https://www.bower.io), [Flexboxgrid](https://www.flexboxgrid.com), and [Animate.css](https://http://daneden.github.io/animate.css/).
 An experiment in increasing productivity and optimizing workflow.
 
 ### Demo
 
-See it in action [here](http://notanengineer.com/projects/kickstart/).
+See it in action [here](http://notanengineer.com/projects/toast/).
 
 ### Installation
-
-Using bower:
-
-```
-bower install kickstart
-```
 
 Using npm:
 
 ```
-npm install kickstart
+npm install toast
 ```
 
 Or just clone this repo!
