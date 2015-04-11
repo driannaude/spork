@@ -1,5 +1,5 @@
-## Spork - An Automation-Ready Project Generator.
-#### This is the Spork Boilerplate repo, for the spork-cli, see [here](https://github.com/driannaude/spork-cli)
+### Spork - An Automation-Ready Project Generator.
+##### This is the Spork Boilerplate repo, for the spork-cli, see [here](https://github.com/driannaude/spork-cli)
 ![spork image](http://notanengineer.com/blog/wp-content/uploads/2015/04/spork.png "spork-cli interface")
 
 Built with [Bootstrap](https://www.getbootstrap.com), [AngularJS](https://www.angularjs.org), [Grunt](https://www.gruntjs.com), [Bower](https://www.bower.io), [Flexboxgrid](https://www.flexboxgrid.com), and [Animate.css](https://http://daneden.github.io/animate.css/).
@@ -8,15 +8,6 @@ An experiment in increasing productivity and optimizing workflow.
 __Spork is very much in the early stages of development, so please tread carefully, here be dragons and disorder.__
 
 ---
-
-![spork image](http://notanengineer.com/blog/wp-content/uploads/2015/04/spork.png "spork-cli interface")
-
-Built with [Bootstrap](https://www.getbootstrap.com), [AngularJS](https://www.angularjs.org), [Grunt](https://www.gruntjs.com), [Bower](https://www.bower.io), [Flexboxgrid](https://www.flexboxgrid.com), and [Animate.css](https://http://daneden.github.io/animate.css/).
-An experiment in increasing productivity and optimizing workflow.
-
-### Demo
-
-See it in action [here](http://notanengineer.com/projects/spork/).
 
 
 ### Installation
