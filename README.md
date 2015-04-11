@@ -7,6 +7,17 @@ An experiment in increasing productivity and optimizing workflow.
 
 __Spork is very much in the early stages of development, so please tread carefully, here be dragons and disorder.__
 
+---
+
+![spork image](http://notanengineer.com/blog/wp-content/uploads/2015/04/spork.png "spork-cli interface")
+
+Built with [Bootstrap](https://www.getbootstrap.com), [AngularJS](https://www.angularjs.org), [Grunt](https://www.gruntjs.com), [Bower](https://www.bower.io), [Flexboxgrid](https://www.flexboxgrid.com), and [Animate.css](https://http://daneden.github.io/animate.css/).
+An experiment in increasing productivity and optimizing workflow.
+
+### Demo
+
+See it in action [here](http://notanengineer.com/projects/spork/).
+
 
 ### Installation
 
@@ -26,21 +37,25 @@ Spork has its own cli-interface. To create a new project, just call `spork creat
 
 ```
 spork create myNewSpork projects/sporks/ 
+MBA:drian$ spork create myNewSpork projects/sporks/ 
 ```
 
 If you do get stuck, you can always just call call for help, i.e:
 
 ```
 spork --help
+MBA:drian$ spork --help
 ```
 
 or you can call
 
 ```
 spork [command] --help
+MBA:drian$ spork [command] --help
 ```
 
 for a more specfic help section about that particular command.
+
 
 > 
 ##A note for Windows Users:
@@ -54,6 +69,12 @@ Simply clone the repo and run the build script from your Terminal (OSX+ Linux On
 
 ```
 git clone https://github.com/driannaude/spork
+
+###### Building it Manually:
+
+Simply run the build script from your Terminal (OSX+ Linux Only)
+
+```
 ./build
 ```
 
@@ -85,7 +106,6 @@ Or if you prefer the boring, old fashioned way:
 ```
 grunt serve
 ```
-
 ### See it in Action
 
 The Spork project page was created using Spork. See it in action [here](http://notanengineer.com/projects/spork/).
@@ -95,5 +115,6 @@ The Spork project page was created using Spork. See it in action [here](http://n
 ###Some Legal Stuff
 THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
 HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+=======
 
 ###Enjoy!
