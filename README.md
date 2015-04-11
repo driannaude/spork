@@ -20,7 +20,7 @@ npm install spork-cli
 
 ---
 
-### Building Spork
+### Creating a Spork
 
 ###### The Recommended Way:
 
@@ -60,6 +60,7 @@ Simply clone the repo and run the build script from your Terminal (OSX+ Linux On
 
 ```
 git clone https://github.com/driannaude/spork
+```
 
 ###### Building it Manually:
 
