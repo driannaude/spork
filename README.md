@@ -1,3 +1,5 @@
+| ATTENTION: This repo is no longer maintained.
+
 ### Spork - An Automation-Ready Project Generator.
 ##### This is the Spork Boilerplate repo, for the spork-cli, see [here](https://github.com/driannaude/spork-cli)
 ![spork image](http://notanengineer.com/blog/wp-content/uploads/2015/04/spork.png "spork-cli interface")
