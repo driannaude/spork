@@ -1,4 +1,4 @@
-| ATTENTION: This repo is no longer maintained.
+> ATTENTION: This repo is no longer maintained. It was a fun experiment but ultimately [Yeoman](http://yeoman.io) is still the best tool for the job :)
 
 ### Spork - An Automation-Ready Project Generator.
 ##### This is the Spork Boilerplate repo, for the spork-cli, see [here](https://github.com/driannaude/spork-cli)
